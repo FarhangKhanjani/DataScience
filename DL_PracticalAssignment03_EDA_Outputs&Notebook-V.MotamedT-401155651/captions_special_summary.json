@@ -1,0 +1,8 @@
+{
+  "captions_with_digits": 169,
+  "captions_with_quotes": 2540,
+  "captions_with_commas": 2447,
+  "captions_non_ascii": 0,
+  "very_short_captions_le_2": 202,
+  "long_captions_gt_20": 438
+}

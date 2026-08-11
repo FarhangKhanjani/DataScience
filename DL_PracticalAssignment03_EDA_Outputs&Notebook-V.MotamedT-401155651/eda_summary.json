@@ -1,0 +1,25 @@
+{
+  "caption_stats": {
+    "total_captions": 40453,
+    "unique_images": 21670,
+    "length_min": 1,
+    "length_max": 36,
+    "length_mean": 9.817096383457345,
+    "length_median": 9.0,
+    "vocab_size": 8407
+  },
+  "special_tokens_summary": {
+    "captions_with_digits": 169,
+    "captions_with_quotes": 2540,
+    "captions_with_commas": 2447,
+    "captions_non_ascii": 0,
+    "very_short_captions_le_2": 202,
+    "long_captions_gt_20": 438
+  },
+  "image_summary": {
+    "total_images_scanned": 8091,
+    "num_grayscale_images": 0,
+    "num_small_images_below_100px": 0
+  },
+  "notes": "All outputs (CSVs, PNGs, embeddings, reports) are saved under /content/eda_outputs/. Download them from the Colab Files pane."
+}
